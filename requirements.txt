@@ -1,5 +1,6 @@
 streamlit
 nbformat
 nbconvert
+ipykernel
+jupyter
 google-generativeai
-python-dotenv
