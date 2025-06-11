@@ -1,5 +1,5 @@
+.env
 __pycache__/
 *.pyc
-.env
-executed_output.ipynb
 *.ipynb_checkpoints
+executed_output.ipynb
