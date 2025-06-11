@@ -2,3 +2,4 @@ streamlit
 nbformat
 nbconvert
 google-generativeai
+python-dotenv
