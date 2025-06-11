@@ -1,6 +1,4 @@
 streamlit
 nbformat
 nbconvert
-ipykernel
-jupyter
-google-generativeai
+openai
